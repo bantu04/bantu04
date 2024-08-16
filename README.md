@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on HTML & CSS
 - 📫 How to reach me bantumaruthiprasad@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: earth contains 3/4 of water.
+- ⚡ Fun fact:
 
 <!---
 bantu04/bantu04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
